@@ -3,13 +3,15 @@ module:
     - path: github.com/LiquidPL/hugo-theme
 
 baseURL: https://liquid.pw/
-title: Krzysztof Gutkowski
+title: Chris Gutkowski
 theme: github.com/LiquidPL/hugo-theme
 
 defaultContentLanguage: en
 
 languages:
   en:
+    title: Chris Gutkowski
     weight: 1
   pl:
+    title: Krzysztof Gutkowski
     weight: 2
