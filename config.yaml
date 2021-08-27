@@ -15,3 +15,23 @@ languages:
   pl:
     title: Krzysztof Gutkowski
     weight: 2
+
+params:
+  links:
+    - id: github
+      name: GitHub
+      icon: fab github
+      url: https://github.com/LiquidPL
+    - id: discord
+      name: Discord
+      icon: fab discord
+      url: '#'
+      tooltip: LiquidPL#1087
+    - id: gitlab
+      name: GitLab
+      icon: fab gitlab
+      url: https://gitlab.com/LiquidPL
+    - id: twitter
+      name: Twitter
+      icon: fab twitter
+      url: https://twitter.com/LiquidPL
