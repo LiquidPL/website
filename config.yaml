@@ -1,2 +1,7 @@
+module:
+  imports:
+    - path: github.com/LiquidPL/hugo-theme
+
 baseURL: https://liquid.pw/
 title: Krzysztof Gutkowski
+theme: github.com/LiquidPL/hugo-theme
