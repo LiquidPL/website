@@ -5,3 +5,11 @@ module:
 baseURL: https://liquid.pw/
 title: Krzysztof Gutkowski
 theme: github.com/LiquidPL/hugo-theme
+
+defaultContentLanguage: en
+
+languages:
+  en:
+    weight: 1
+  pl:
+    weight: 2
