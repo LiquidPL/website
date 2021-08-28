@@ -6,6 +6,8 @@ baseURL: https://liquid.pw/
 title: Chris Gutkowski
 theme: github.com/LiquidPL/hugo-theme
 
+sectionPagesMenu: main
+
 defaultContentLanguage: en
 
 languages:
