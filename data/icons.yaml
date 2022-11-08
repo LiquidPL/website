@@ -2,3 +2,4 @@ fab github:
 fab gitlab:
 fab twitter:
 fab discord:
+fab mastodon:

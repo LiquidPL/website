@@ -37,3 +37,9 @@ params:
       name: Twitter
       icon: fab twitter
       url: https://twitter.com/LiquidPL
+    - id: mastodon
+      name: Mastodon
+      icon: fab mastodon
+      url: https://layer8.space/@LiquidPL
+      attributes:
+        rel: me
